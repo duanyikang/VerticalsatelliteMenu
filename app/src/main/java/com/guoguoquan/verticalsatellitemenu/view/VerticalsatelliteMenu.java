@@ -14,7 +14,6 @@ import java.util.List;
 
 /**
  * 作者：小段果果 on 2016/3/30 18:51
- * 邮箱：duanyikang@mumayi.com
  */
 public class VerticalsatelliteMenu extends FrameLayout {
 
